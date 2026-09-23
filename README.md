@@ -175,9 +175,9 @@ Beyond coding, I'm also an **inventor**. One of my inventions, **Bama Pix**, is 
 | **JavaScript** | `████████████████████` | **Frontend** |
 | **Tailwind CSS** | `████████████████████` | **Frontend** |
 | **Progressive Web Apps** | `████████████████████` | **PWA** |
-| **Python** | `██████████████████░░` | **AI ** |
-| **PyTorch** | `███████████████░░░░░` | **AI ** |
-| **TensorFlow** | `██████████████░░░░░░` | **AI ** |
+| **Python** | `██████████████████░░` | **AI** |
+| **PyTorch** | `███████████████░░░░░` | **AI** |
+| **TensorFlow** | `██████████████░░░░░░` | **AI** |
 | **PHP** | `██████████████████░░` | **Backend** |
 | **SQLite** | `███████████████████░` | **Database** |
 | **MySQL** | `████████████████░░░░` | **Database** |
