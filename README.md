@@ -39,47 +39,47 @@
 <tr>
 <td><img src="https://api.iconify.design/mdi/account.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Name</b></td>
-<td>:&nbsp; Amirhossein Khosravi</td>
+<td>&nbsp; Amirhossein Khosravi</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/account.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Name (FA)</b></td>
-<td>:&nbsp; امیرحسین خسروی</td>
+<td>&nbsp; امیرحسین خسروی</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/briefcase.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Role</b></td>
-<td>:&nbsp; AI &amp; Full-Stack Developer</td>
+<td>&nbsp; AI &amp; Full-Stack Developer</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/cake-variant.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Age</b></td>
-<td>:&nbsp; 16</td>
+<td>&nbsp; 16</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/map-marker.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Location</b></td>
-<td>:&nbsp; Iran</td>
+<td>&nbsp; Iran</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/calendar.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Birthday</b></td>
-<td>:&nbsp; December 24, 2009</td>
+<td>&nbsp; December 24, 2009</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/timeline-clock.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Experience</b></td>
-<td>:&nbsp; 2+ Years</td>
+<td>&nbsp; 2+ Years</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/target.svg?color=%236C8CFF" width="18"/></td>
 <td><b>Focus</b></td>
-<td>:&nbsp; AI · Full-Stack</td>
+<td>&nbsp; AI · Full-Stack</td>
 </tr>
 <tr>
 <td><img src="https://api.iconify.design/mdi/check-circle.svg?color=%234ADE80" width="18"/></td>
 <td><b>Status</b></td>
-<td>:&nbsp; Available for opportunities</td>
+<td>&nbsp; Available for opportunities</td>
 </tr>
 </table>
 
